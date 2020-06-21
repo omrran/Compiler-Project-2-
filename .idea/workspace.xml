@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VMD9D3diDWXVkOU2ABTc4y36lh" />
   <component name="PropertiesComponent">
     <property name="$PROJECT_DIR$/src/Interpreter.g4::/auto-gen" value="false" />

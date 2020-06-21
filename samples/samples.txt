@@ -1,7 +1,7 @@
 gg(var a){
 
   if(x>1){
-    x++;
+    ++x;
   }
    break;
 
