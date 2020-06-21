@@ -1,6 +1,6 @@
 
 grammar SQL;
-//compiler 2
+//compiler 2 from omran 2
 parse
  : ( sql_stmt_list | func_statment_list| error ) EOF
  ;
